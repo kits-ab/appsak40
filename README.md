@@ -1,2 +1,2 @@
 # appsak40
-Appsäk 4.0
+Slides från appsäkkursen 4.0
